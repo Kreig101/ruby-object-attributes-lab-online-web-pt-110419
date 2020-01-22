@@ -12,4 +12,9 @@ class Dog
    
    @breed = kind
   end
+  
+  def breed
+    @breed
+  end
+
 end
