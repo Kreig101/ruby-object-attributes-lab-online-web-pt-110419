@@ -9,7 +9,7 @@ class Dog
   end 
 
   def breed=(kind)
-    binding.pry
+   
    @breed = kind
   end
 end
